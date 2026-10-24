@@ -1,0 +1,6 @@
+{
+  "name": "Shanti - Cozy Lo-Fi Mindfulness",
+  "description": "Aplicación de meditación y paz interior inspirada en Shanti, con estética pixel art lo-fi, temporizador visual de respiración, escenarios dinámicos (mañana, tarde, noche) y elementos climáticos interactivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

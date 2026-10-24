@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Shanti",
+    "slug": "shanti-mindfulness",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#161420",
+    "splash": {
+      "backgroundColor": "#161420",
+      "resizeMode": "contain"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c1a2b3c4-shanti-project",
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.luismoncada.shanti"
+    },
+    "android": {
+      "package": "com.luismoncada.shanti",
+      "adaptiveIcon": {
+        "backgroundColor": "#161420"
+      },
+      "permissions": [
+        "VIBRATE",
+        "WAKE_LOCK"
+      ]
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "shanti-mindfulness-luis"
+      }
+    }
+  }
+}
